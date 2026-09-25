@@ -1,0 +1,6 @@
+/slices/worker/        @PERSON1
+/slices/customer/      @PERSON2
+/slices/agency-admin/  @PERSON3
+/shared/               @PERSON1 @PERSON2 @PERSON3
+/apps/                 @PERSON1 @PERSON2 @PERSON3
+/.github/              @PERSON1 @PERSON2 @PERSON3
